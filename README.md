@@ -1,2 +1,2 @@
 # reactive-store
-Reactive Store API
+Spring Reactive Store API
