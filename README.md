@@ -1,2 +1,2 @@
 # reactive-store
-Reactive Store API
+Spring Boot Reactive Store Management API
